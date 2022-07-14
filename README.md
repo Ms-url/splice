@@ -1,8 +1,9 @@
 # splice
 ## 图像拼接算法
-完整操作参照standard_7  
+完整操作参照standard_7，standard_7 是为7图拼接而编写  
 standard_sift中包含了不同的缝合线算法  
-slic 为超像素分割算法，matlab 中内置该算法
+- slic 为超像素分割算法，matlab 中内置该算法  
+- dhash 为哈希搜索算法，未使用
 
 ## 特征点检测算法
 该部分包含3个算法实现
