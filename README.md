@@ -1,4 +1,5 @@
 # splice
+## author：李翊铭
 ## 图像拼接算法
 完整操作参照standard_7，standard_7 是为7图拼接而编写,使用线性融合  
 standard_sift中包含缝合线算法  
